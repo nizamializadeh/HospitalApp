@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Map",
+      "appliesTo": "HospitalApp/Map.cs",
+      "type": "command"
+    }
+  ]
+}
